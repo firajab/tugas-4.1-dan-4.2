@@ -1,0 +1,77 @@
+.column-atas td{
+    background-color: palevioletred;
+    font-family: century gothic;
+    color: black;
+    border: 1px solid powderblue;
+    padding: 5px;
+    border-collapse: collapse;
+    
+    }
+    .h{
+    border: 8px groove pink;
+    padding: 20px;
+    }
+    .h table{
+       width: 980px; 
+    }
+    .posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0;
+    right: 0;
+    top: 100px;
+    bottom: 0;
+
+    }
+
+    .satu {
+        color: black;
+        text-align: center;
+        font-style: italic;
+}
+
+    body{
+    background-image: url("pink.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px auto;
+    }
+    
+    .column-bawah{
+        display: flex;
+    }
+    .column-bawah .tiga{
+        width: 30%;
+        padding: 0 40px;
+    }
+    .tiga video {
+        width: 300px;
+        height: 350px;
+    }
+    .column-bawah .empat table{
+        margin-left: 30px;
+        margin-top: 90px;
+        width: 30%;
+        border-top: 2px solid palevioletred;
+        border-bottom: 2px solid palevioletred;
+        border-left: 2px solid palevioletred;
+        border-right: 2px solid palevioletred;
+    }
+    .empat img {
+        width: 120px;
+        height: 120px;
+    }
+    .sosial-media{
+        margin-left: 30px;
+        margin-top: 82px;
+        padding: 0 40px;
+    }
+    .sosial-media li{
+        list-style: none;
+    }
+    .sosial-media img{
+        width: 50px;
+
+    }
