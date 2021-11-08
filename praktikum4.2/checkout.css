@@ -1,0 +1,189 @@
+body {
+    margin: 0;
+}
+
+.navv {
+    background-color:pink; 
+    display: flex; 
+    align-content: center;  
+    width: 700px; 
+    height: 55px; 
+    border-left: 1px solid black; 
+    border-right: 1px solid black; 
+    border-top: 1px solid black;
+}
+
+.atas {
+    list-style-type: none;
+}
+.atas img {
+    width: 15px; 
+    height: 18px; 
+    vertical-align: -4px;
+}
+
+.ul2 li {
+    display: flex; 
+    padding-bottom: 20px;
+}
+
+.ul2 img {
+    width: 18px;
+}
+
+.tengah {
+    width: 700px; 
+    height: 600px; 
+    border: 1px solid black; 
+    display: flex;
+}
+
+.tengah img {
+    width: 50px; 
+    margin-left: 15px;
+}
+
+
+.div1 {
+    width: 60%; 
+    padding-left: 20px; 
+    padding-top: 25px; 
+    padding-right: 30px;
+}
+
+.div1 b {
+    font-size: 20px;
+}
+
+.td {
+    padding-right: 70px;
+}
+
+.td1 {
+    padding-top: 9px; 
+    border-top: 1px solid black;
+}
+
+.td2 {
+    padding-right: 70px; 
+    border-bottom: 1px solid black;
+}
+
+.tabel {
+    border-bottom: 1px solid black;
+}
+
+.th {
+    font-size: 20px; 
+    padding-bottom: 5px; 
+    padding-top: 5px;
+}
+
+.td3 {
+    padding-top: 20px;
+}
+
+.td4 {
+    padding-left: 30px; 
+    padding-top: 20px;
+}
+
+.td5 {
+    padding-top: 20px; 
+    padding-bottom: 30px;
+}
+
+.td6 {
+    padding-left: 30px; 
+    padding-bottom: 30px;
+}
+
+.td6 img {
+    height: 18px; 
+    vertical-align: -4px;
+}
+aside {
+    float: right; 
+    width: 220px; 
+    height: 230px; 
+    margin-top: 40px; 
+    background-color: rgb(189, 185, 185);
+}
+
+.tebel2 {
+    padding-left: 12px; 
+    padding-top: 10px;
+}
+
+hr {
+    width: 80%; color: white;
+}
+
+.tebel3 {
+    padding-left: 12px;
+}
+
+.tebel4 {
+    padding-left: 12px;
+}
+
+.tebel4 td {
+    padding-left: 5px;
+    padding-right: 80px;
+}
+
+.div2 {
+    display: flex; 
+    padding-left: 5px;
+}
+
+.div2 input {
+    margin-left: 10px; 
+    width: 140px;
+}
+
+.foot {
+    font-size: 14px; 
+    align-content: center; 
+    justify-content: center;  
+    width: 700px; 
+    height: 80px; 
+    border-left: 1px solid black; 
+    border-right: 1px solid black; 
+    border-bottom: 1px solid black;
+}
+
+.foot1 {
+    display: flex; 
+    padding-left: 20px;
+}
+
+.foot1 b {
+    padding-right: 15px; 
+    padding-top: 14px;
+}
+
+.foot1 p {
+    padding-right: 5px;
+}
+
+.foot .a {
+    padding-left: 180px; 
+    padding-top: 20px;
+}
+
+.foot2 {
+    float: right; 
+    margin-right: 15px;
+    color: white; 
+    background-color: rgb(104, 104, 104); 
+    cursor: pointer;
+}
+
+.akhir {
+    padding-left: 20px;
+}
+
+.akhir img {
+    width: 26px;
+}
